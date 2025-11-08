@@ -1,1 +1,1 @@
-# -Mini-travel-application
+# Mini-travel-application
